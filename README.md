@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Slowpek1337 💫
+# Hi there! 👋 I'm Slow 💫
 
 Welcome to my GitHub playground! 🚀 I'm passionate about coding, open source, and building cool stuff.
 
@@ -24,7 +24,7 @@ Ask me about front-end development, UI/UX design, or how to make the perfect cup
 
 ## 📫 How to Reach Me
 
-Feel free to shoot me a message on [Discord](https://discord.com/users/949004583773020190) or [Instagram](https://www.instagram.com/slow.nmt/). Let's connect and chat about our favorite tech stacks!
+Feel free to shoot me a message on [Discord](https://discord.com/users/949004583773020190). Let's connect and chat about our favorite tech stacks!
 
 ## 😄 Pronouns
 
