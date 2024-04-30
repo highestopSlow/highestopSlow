@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/949004583773020190)](https://discord.com/users/949004583773020190)
+
 <!--
 **highestopSlow/highestopSlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
